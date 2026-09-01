@@ -1,0 +1,32 @@
+Escenarios
+
+Empieza el set          Love-Love
+Jugador 1 anota         15-Love
+Jugador 2 anota         15-15
+Jugador 1 anota         30-15
+Jugador 2 anota         30-30
+Jugador 1 anota         40-30
+Jugador 2 anota         Deuce
+Jugador 1 anota         Advantage Player 1
+Jugador 1 anota         Game for Player 1
+
+
+
+Empieza el set          Love-Love
+Jugador 1 anota         15-Love
+Jugador 1 anota         30-Love
+Jugador 1 anota         40-Love
+Jugador 1 anota         Game for Player 1
+
+
+Empieza el set          Love-Love
+Jugador 1 anota         15-Love
+Jugador 1 anota         30-Love
+Jugador 2 anota         30-15
+Jugador 1 anota         40-15
+Jugador 1 anota         40-30
+Jugador 2 anota         Deuce
+Jugador 2 anota         Advantage Player 2
+Jugador 2 anota         Game for Player 2
+
+

@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Soria",
+    "commit": {
+      "date": "2026-09-01T14:08:28.000Z",
+      "message": "feat: muestra love-love cuando ningun jugador anoto",
+      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 70,
+      "additions": 68,
+      "deletions": 2,
+      "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
