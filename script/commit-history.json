@@ -190,12 +190,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5b4bfe35549ab7c2b274d447afd36187e419bcbd",
     "author": "Soria",
     "commit": {
       "date": "2026-09-03T03:49:17.000Z",
       "message": "feat: muestra 30-15 con puntos de ambos jugadores",
-      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/HEAD"
+      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/5b4bfe35549ab7c2b274d447afd36187e419bcbd"
     },
     "stats": {
       "total": 11,
@@ -205,6 +205,25 @@
     },
     "coverage": 100,
     "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Soria",
+    "commit": {
+      "date": "2026-09-03T04:00:13.000Z",
+      "message": "feat: agrega Deuce y refactoriza el calculo del marcador",
+      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 47,
+      "additions": 22,
+      "deletions": 25,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }

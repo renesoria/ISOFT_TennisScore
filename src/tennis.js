@@ -12,34 +12,20 @@ class Tennis{
     }
 
     obtenerScore(){
-        if (this.puntosJugador1 == 4) {
-            return "Game for Player 1";
-        }
-        if (this.puntosJugador1 == 3) {
-            return "40 - Love";
-        }
-        if (this.puntosJugador1 == 2 && this.puntosJugador2 == 1) {
-            return "30 - 15";
-        }
-        if (this.puntosJugador1 == 2) {
-            return "30 - Love";
-        }
-        if (this.puntosJugador1 == 1) {
-            return "15 - Love";
-        }
-        if (this.puntosJugador2 == 4) {
+        const puntuaciones = ["Love", "15", "30", "40"];
+        const diferencia = this.puntosJugador1 - this.puntosJugador2;
+
+        if (Math.max(this.puntosJugador1, this.puntosJugador2) >= 4 && Math.abs(diferencia) >= 2) {
+            if (diferencia > 0) {
+                return "Game for Player 1";
+            }
             return "Game for Player 2";
         }
-        if (this.puntosJugador2 == 3) {
-            return "Love - 40";
+        if (Math.min(this.puntosJugador1, this.puntosJugador2) >= 3) {
+            return "Deuce";
         }
-        if (this.puntosJugador2 == 2) {
-            return "Love - 30";
-        }
-        if (this.puntosJugador2 == 1) {
-            return "Love - 15";
-        }
-        return "Love - Love";
+
+        return `${puntuaciones[this.puntosJugador1]} - ${puntuaciones[this.puntosJugador2]}`;
     }
 }
 export default Tennis;

@@ -316,9 +316,55 @@
     "testId": 10
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5b4bfe35549ab7c2b274d447afd36187e419bcbd",
     "commitName": "feat: muestra 30-15 con puntos de ambos jugadores",
     "commitTimestamp": 1788407358858,
     "testId": 10
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 1,
+    "numTotalTests": 11,
+    "timestamp": 1788407438691,
+    "success": false,
+    "testId": 11
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1788407492622,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1788407578352,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1788407834533,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1788407904140,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agrega Deuce y refactoriza el calculo del marcador",
+    "commitTimestamp": 1788408014861,
+    "testId": 11
   }
 ]
