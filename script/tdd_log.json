@@ -132,9 +132,31 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c887ae41c7ae0c1c82b7deac9ccdccfae6076e54",
     "commitName": "feat: muestra el marcador de tenis en la interfaz",
     "commitTimestamp": 1788404970958,
     "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1788405055247,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1788405086324,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: muestra 30-Love cuando jugador 1 anota dos veces",
+    "commitTimestamp": 1788405317711,
+    "testId": 3
   }
 ]

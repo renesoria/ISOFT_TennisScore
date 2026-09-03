@@ -7,6 +7,9 @@ class Tennis{
     }
 
     obtenerScore(){
+        if (this.puntosJugador1 == 2) {
+            return "30 - Love";
+        }
         if (this.puntosJugador1 == 1) {
             return "15 - Love";
         }
