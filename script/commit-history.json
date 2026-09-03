@@ -19,18 +19,37 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "aeed53f2b76d51fb1d3a33c2581385b26af2446d",
     "author": "Soria",
     "commit": {
       "date": "2026-09-01T14:26:13.000Z",
       "message": "feat: muestra 15-Love cuadno el jugador 1 anota y jugador 2 en cero",
-      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/HEAD"
+      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/aeed53f2b76d51fb1d3a33c2581385b26af2446d"
     },
     "stats": {
       "total": 26,
       "additions": 16,
       "deletions": 10,
       "date": "2026-09-01"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Soria",
+    "commit": {
+      "date": "2026-09-03T03:09:29.000Z",
+      "message": "feat: muestra el marcador de tenis en la interfaz",
+      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 40,
+      "additions": 19,
+      "deletions": 21,
+      "date": "2026-09-03"
     },
     "coverage": 100,
     "test_count": 2,
