@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "eeb4c2af82a336f789ab0bd31c8fa1967df3bf2a",
     "author": "Soria",
     "commit": {
       "date": "2026-09-03T03:30:05.000Z",
       "message": "feat: muestra Love-40 cuando jugador 2 anota tres veces",
-      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/HEAD"
+      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/eeb4c2af82a336f789ab0bd31c8fa1967df3bf2a"
     },
     "stats": {
       "total": 11,
@@ -167,6 +167,25 @@
     },
     "coverage": 100,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Soria",
+    "commit": {
+      "date": "2026-09-03T03:32:43.000Z",
+      "message": "feat: muestra Game for Player 2 con cuatro anotaciones",
+      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 12,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }
