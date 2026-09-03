@@ -1,9 +1,14 @@
 class Tennis{
 
     puntosJugador1 = 0;
+    puntosJugador2 = 0;
 
     jugador1_anota(){
         this.puntosJugador1++;
+    }
+
+    jugador2_anota(){
+        this.puntosJugador2++;
     }
 
     obtenerScore(){
@@ -18,6 +23,9 @@ class Tennis{
         }
         if (this.puntosJugador1 == 1) {
             return "15 - Love";
+        }
+        if (this.puntosJugador2 == 1) {
+            return "Love - 15";
         }
         return "Love - Love";
     }

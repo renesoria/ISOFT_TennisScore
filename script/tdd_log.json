@@ -198,9 +198,39 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "8f7ae3b391718801e15c4b8717235b18d1807c95",
     "commitName": "feat: muestra Game for Player 1 con cuatro anotaciones",
     "commitTimestamp": 1788405700034,
     "testId": 5
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1788405757960,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1788405784862,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1788405808602,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: muestra Love-15 cuando jugador 2 anota",
+    "commitTimestamp": 1788405913487,
+    "testId": 6
   }
 ]

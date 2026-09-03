@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8f7ae3b391718801e15c4b8717235b18d1807c95",
     "author": "Soria",
     "commit": {
       "date": "2026-09-03T03:21:38.000Z",
       "message": "feat: muestra Game for Player 1 con cuatro anotaciones",
-      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/HEAD"
+      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/8f7ae3b391718801e15c4b8717235b18d1807c95"
     },
     "stats": {
       "total": 12,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Soria",
+    "commit": {
+      "date": "2026-09-03T03:25:12.000Z",
+      "message": "feat: muestra Love-15 cuando jugador 2 anota",
+      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 21,
+      "deletions": 1,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
