@@ -294,9 +294,31 @@
     "testId": 9
   },
   {
-    "commitId": "HEAD",
+    "commitId": "63fc98b7afa2ea59859da54f8fa8aa68c66cf1a9",
     "commitName": "feat: muestra Game for Player 2 con cuatro anotaciones",
     "commitTimestamp": 1788406364453,
     "testId": 9
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 1,
+    "numTotalTests": 10,
+    "timestamp": 1788406440233,
+    "success": false,
+    "testId": 10
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 0,
+    "numTotalTests": 10,
+    "timestamp": 1788406459546,
+    "success": true,
+    "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: muestra 30-15 con puntos de ambos jugadores",
+    "commitTimestamp": 1788407358858,
+    "testId": 10
   }
 ]

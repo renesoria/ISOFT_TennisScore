@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "63fc98b7afa2ea59859da54f8fa8aa68c66cf1a9",
     "author": "Soria",
     "commit": {
       "date": "2026-09-03T03:32:43.000Z",
       "message": "feat: muestra Game for Player 2 con cuatro anotaciones",
-      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/HEAD"
+      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/63fc98b7afa2ea59859da54f8fa8aa68c66cf1a9"
     },
     "stats": {
       "total": 12,
@@ -186,6 +186,25 @@
     },
     "coverage": 100,
     "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Soria",
+    "commit": {
+      "date": "2026-09-03T03:49:17.000Z",
+      "message": "feat: muestra 30-15 con puntos de ambos jugadores",
+      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }
