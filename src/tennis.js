@@ -22,6 +22,9 @@ class Tennis{
             return "Game for Player 2";
         }
         if (Math.min(this.puntosJugador1, this.puntosJugador2) >= 3) {
+            if (diferencia == 1) {
+                return "Advantage for Player 1";
+            }
             return "Deuce";
         }
 

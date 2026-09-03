@@ -362,9 +362,31 @@
     "testId": 11
   },
   {
-    "commitId": "HEAD",
+    "commitId": "d37b03786b5e4335176184fe8e69bfadbd11ca1c",
     "commitName": "feat: agrega Deuce y refactoriza el calculo del marcador",
     "commitTimestamp": 1788408014861,
     "testId": 11
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 1,
+    "numTotalTests": 12,
+    "timestamp": 1788408168248,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1788408189939,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: muestra ventaja para el jugador 1",
+    "commitTimestamp": 1788408243570,
+    "testId": 12
   }
 ]
