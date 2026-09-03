@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "1560e5047e87c751cf0c2ec8227c800d995cb11f",
     "author": "Soria",
     "commit": {
       "date": "2026-09-03T03:25:12.000Z",
       "message": "feat: muestra Love-15 cuando jugador 2 anota",
-      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/HEAD"
+      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/1560e5047e87c751cf0c2ec8227c800d995cb11f"
     },
     "stats": {
       "total": 22,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Soria",
+    "commit": {
+      "date": "2026-09-03T03:28:01.000Z",
+      "message": "feat: muestra Love-30 cuando jugador 2 anota dos veces",
+      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
