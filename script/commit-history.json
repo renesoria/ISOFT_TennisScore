@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "75a91e23d2eea57e6d1eb3f461470174d28821b0",
     "author": "Soria",
     "commit": {
       "date": "2026-09-03T03:15:16.000Z",
       "message": "feat: muestra 30-Love cuando jugador 1 anota dos veces",
-      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/HEAD"
+      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/75a91e23d2eea57e6d1eb3f461470174d28821b0"
     },
     "stats": {
       "total": 14,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Soria",
+    "commit": {
+      "date": "2026-09-03T03:19:00.000Z",
+      "message": "feat: muestra 40-Love cuando jugador 1 anota tres veces",
+      "url": "https://github.com/renesoria/ISOFT_TennisScore/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
+      "date": "2026-09-03"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
