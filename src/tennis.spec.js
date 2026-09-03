@@ -109,4 +109,17 @@ describe("Tennis", () => {
     tennis.jugador2_anota();
     expect(tennis.obtenerScore()).toEqual("Advantage for Player 2");
   });
+  //Cuando estan en Deuce y jugador 1 anota dos veces seguidas --> "Game for Player 1"
+  it("deberia mostrar Game for Player 1 cuando desde Deuce jugador 1 anota dos veces seguidas", () => {
+    let tennis =new Tennis();
+    tennis.jugador1_anota();
+    tennis.jugador1_anota();
+    tennis.jugador1_anota();
+    tennis.jugador2_anota();
+    tennis.jugador2_anota();
+    tennis.jugador2_anota();
+    tennis.jugador1_anota();
+    tennis.jugador1_anota();
+    expect(tennis.obtenerScore()).toEqual("Game for Player 1");
+  });
 });

@@ -406,9 +406,23 @@
     "testId": 13
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6ea0a32db3c02fb14f972c8f2e168d2e6098d787",
     "commitName": "feat: muestra ventaja para el jugador 2",
     "commitTimestamp": 1788408385364,
     "testId": 13
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 0,
+    "numTotalTests": 14,
+    "timestamp": 1788408716521,
+    "success": true,
+    "testId": 14
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: verifica victoria del jugador 1 despues de Deuce",
+    "commitTimestamp": 1788408957340,
+    "testId": 14
   }
 ]
