@@ -25,6 +25,9 @@ class Tennis{
             if (diferencia == 1) {
                 return "Advantage for Player 1";
             }
+            if (diferencia == -1) {
+                return "Advantage for Player 2";
+            }
             return "Deuce";
         }
 
