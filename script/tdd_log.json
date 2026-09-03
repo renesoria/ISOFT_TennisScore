@@ -250,9 +250,31 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a69936e511ddc5da6d660db4b79769838e656da3",
     "commitName": "feat: muestra Love-30 cuando jugador 2 anota dos veces",
     "commitTimestamp": 1788406083006,
     "testId": 7
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 1,
+    "numTotalTests": 8,
+    "timestamp": 1788406136392,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1788406155128,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: muestra Love-40 cuando jugador 2 anota tres veces",
+    "commitTimestamp": 1788406206828,
+    "testId": 8
   }
 ]
