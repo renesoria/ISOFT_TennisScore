@@ -176,9 +176,31 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "e82fc74a5505a79ad8f7b84a89068f864c2af4ed",
     "commitName": "feat: muestra 40-Love cuando jugador 1 anota tres veces",
     "commitTimestamp": 1788405542287,
     "testId": 4
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1788405625260,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1788405645957,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: muestra Game for Player 1 con cuatro anotaciones",
+    "commitTimestamp": 1788405700034,
+    "testId": 5
   }
 ]
